@@ -30,4 +30,4 @@ Week 4: Data Quality, Exploratory Data Analysis, and Machine Learning
 
 Week 5: Data Management  
 
-        Lab 4: Introduction to Machine Learning with Apache Spark (Due Jul 3, 2015 at 00:00 UTC) - use Spark's mllib Machine Learning library to perform collaborative filtering on a movie dataset in the fourth course lab 
+        Lab 4: Introduction to Machine Learning with Apache Spark - use Spark's mllib Machine Learning library to perform collaborative filtering on a movie dataset in the fourth course lab 
