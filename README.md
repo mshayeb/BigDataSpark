@@ -41,13 +41,9 @@ The [five-number summary](https://en.wikipedia.org/?title=Five-number_summary) i
 
 
    * The [sample minimum](https://en.wikipedia.org/wiki/Sample_minimum)  (smallest observation)
-
    * The [lower quartile](https://en.wikipedia.org/wiki/Quartile) or first quartile
-
    * The [median](https://en.wikipedia.org/wiki/Median) (middle value)
-
    * The [upper quartile](https://en.wikipedia.org/wiki/Quartile) or third quartile
-   
    * The [sample maximum](https://en.wikipedia.org/wiki/Sample_maximum) (largest observation)
 
 You can compare the five-number summaries of multiple observations using a [box plot](https://en.wikipedia.org/wiki/Box_plot):
