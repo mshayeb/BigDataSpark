@@ -31,3 +31,25 @@ Week 4: Data Quality, Exploratory Data Analysis, and Machine Learning
 Week 5: Data Management  
 
         Lab 4: Introduction to Machine Learning with Apache Spark - use Spark's mllib Machine Learning library to perform collaborative filtering on a movie dataset in the fourth course lab 
+
+### Useful Links: 
+The US National Institute of Standards and Technology has an excellent primer on [Exploratory Data Analysis](http://www.itl.nist.gov/div898/handbook/eda/eda_d.htm)
+
+<br/>
+
+The [five-number summary](https://en.wikipedia.org/?title=Five-number_summary) is a [descriptive statistic] (https://en.wikipedia.org/wiki/Descriptive_statistics) that provides information about a set of observations. It consists of the five most important sample [percentiles](https://en.wikipedia.org/wiki/Percentile):
+
+
+   * The [sample minimum](https://en.wikipedia.org/wiki/Sample_minimum)  (smallest observation)
+
+   * The [lower quartile](https://en.wikipedia.org/wiki/Quartile) or first quartile
+
+   * The [median](https://en.wikipedia.org/wiki/Median) (middle value)
+
+   * The [upper quartile](https://en.wikipedia.org/wiki/Quartile) or third quartile
+   
+   * The [sample maximum](https://en.wikipedia.org/wiki/Sample_maximum) (largest observation)
+
+You can compare the five-number summaries of multiple observations using a [box plot](https://en.wikipedia.org/wiki/Box_plot):
+
+![Box Plot](https://github.com/mshayeb/BigDataSpark/blob/master/Michelsonmorley-boxplot.svg)
