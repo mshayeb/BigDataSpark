@@ -53,4 +53,4 @@ The [five-number summary](https://en.wikipedia.org/?title=Five-number_summary) i
 You can compare the five-number summaries of multiple observations using a [box plot](https://en.wikipedia.org/wiki/Box_plot):
 
 ![Box Plot](https://github.com/mshayeb/BigDataSpark/blob/master/Michelsonmorley-boxplot.svg "Boxplot")
-<img src "https://github.com/mshayeb/BigDataSpark/blob/master/Michelsonmorley-boxplot.svg">
+<img src= "https://github.com/mshayeb/BigDataSpark/blob/master/Michelsonmorley-boxplot.svg">
